@@ -7,7 +7,7 @@ const text = document.getElementById("text");
 const amount = document.getElementById("amount");
 const notification = document.getElementById("notification");
 
-// const dummyTransactions = [
+// const dummyTransactions = [ 
 //   { id: 1, text: "Flower", amount: -20 },
 //   { id: 2, text: "Salary", amount: 300 },
 //   { id: 3, text: "Book", amount: -10 },
